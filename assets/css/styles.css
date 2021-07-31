@@ -409,7 +409,7 @@ img{
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 250px) {
 
  .home__title {
   margin-top: -80px;
