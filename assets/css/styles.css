@@ -244,7 +244,6 @@ img{
   .about__social-icon{
     font-size: 1.4rem;
     margin-right: var(--mb-1);
-    padding-bottom: 50px;
 }
 .about__social-icon:hover{
     color: var(--first-color);
