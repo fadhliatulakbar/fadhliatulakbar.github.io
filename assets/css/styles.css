@@ -396,10 +396,6 @@ img{
   .home__img {
     width: 230px;
   }
-    
-   .home__title {
-      margin-top: 10px;
-  }
 
     .home__subtitle{
       font-size: var(--sub-font-size);
