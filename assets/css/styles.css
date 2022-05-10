@@ -201,7 +201,7 @@ img{
     font-size: var(--sub-font-size);
   margin-bottom: var(--mb-5);
     color: var(--white-color);
-    margin-top: -30px;
+    margin-top: -1.8rem;
 }
 
 .home__scroll{
@@ -217,7 +217,7 @@ img{
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 295px;
+    width: 18rem;
 }
 
 /* ===== ABOUT =====*/
