@@ -472,8 +472,8 @@ img{
         row-gap: 0;
     }
     .home__img{
-        width: 526px;
-
+        width: 50%;
+        right: -10%;
     }
 
     .about__container, .skills__container{
