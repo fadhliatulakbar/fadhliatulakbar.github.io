@@ -215,9 +215,9 @@ img{
 }
 .home__img{
     position: absolute;
-    right: 0;
+    right: -20%;
     bottom: 0;
-    width: 18rem;
+    width: 80%;
 }
 
 /* ===== ABOUT =====*/
