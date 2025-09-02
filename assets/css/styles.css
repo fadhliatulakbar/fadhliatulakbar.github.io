@@ -217,7 +217,7 @@ img{
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 200px;
+    width: 500px;
 }
 
 /* ===== ABOUT =====*/
@@ -394,7 +394,7 @@ img{
 /* For small devices */
 @media screen and (max-width: 560px) {
   .home__img {
-    width: 30%;
+    width: 15%;
   }
 
     .home__subtitle{
@@ -472,7 +472,7 @@ img{
         row-gap: 0;
     }
     .home__img{
-        width: 50%;
+        width: 60%;
         right: -50%;
     }
 
